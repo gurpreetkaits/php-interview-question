@@ -73,9 +73,10 @@
 <li>Q72] What is the difference between a trait and an abstract class?</li>
 <li>Q73] What is the difference between a trait and a class?</li>
 <li>Q74] What is the difference between a trait and a normal class?</li>
-
+</ul>
 <hr>
 <h2> Code Challenges </h2>
+<ul>
 <li>Q1] Declare some function with default parameter</li>
 <li>Q2] PHP array delete by value (not key)</li>
 <li>Q3] What will be returned by this code? Explain the result.  </li>
