@@ -94,4 +94,6 @@
 <ul>
   <li><a href="https://larachamp.com/php-interview-questions-for-beginners/">PHP Interview Questions</a></li>
   <li><a href="https://larachamp.com/20-php-interview-questions-2023/">PHP Interview Questions For Beginners</a></li>
+  <li><a href="https://www.javatpoint.com/php-interview-questions"> PHP interview Questions (JavaTpoint) </a></li>
+  <li><a href="https://www.interviewbit.com/php-interview-questions/"> PHP interview Questions (Interviewbit) </a></li>
 </ul>
