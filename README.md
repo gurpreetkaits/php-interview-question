@@ -88,3 +88,6 @@
 <li>Q11] How could we implement method overloading in PHP?</li>
 <li>Q12] Provide some ways to mimic multiple constructors in PHP  </li>
 </ul>
+
+<a href="https://larachamp.com/php-interview-questions-for-beginners/">PHP Interview Questions</a>
+<a href="https://larachamp.com/20-php-interview-questions-2023/">PHP Interview Questions For Beginners</a>
